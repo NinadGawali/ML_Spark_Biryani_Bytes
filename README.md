@@ -59,7 +59,7 @@ This project is open-source and free to use under the MIT License.
 
 ## Authors
 - [@NinadGawali](https://github.com/NinadGawali)
-- [@SahishnuG]
+- [@SahishnuG](https://github.com/SahishnuG)
 - [@HiteshDokku]
 
 ---
