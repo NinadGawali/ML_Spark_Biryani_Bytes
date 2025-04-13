@@ -49,7 +49,7 @@ Build a predictive framework that analyzes customer behavior (demographics, fina
 |------|-------------|
 | `final.ipynb` | Unsupervised learning for business insights and marketing segmentation |
 | `classifier.ipynb` | Supervised learning (classification) to predict customer subscription state; includes oversampling for class imbalance |
-| `summary.pdf` (or `summary.md`) | High-level summary of the problem, solution approach, and results |
+| `Classification_Report.pdf` (or `Classification_Report.md`) | High-level summary of the problem, solution approach, and results |
 
 ---
 
