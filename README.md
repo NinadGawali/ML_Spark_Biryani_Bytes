@@ -53,11 +53,14 @@ Build a predictive framework that analyzes customer behavior (demographics, fina
 
 ---
 
-## 👨‍💻 Contributors
+## License
+This project is open-source and free to use under the MIT License.
+[MIT](https://choosealicense.com/licenses/mit/)
 
-- **Ninad Gawali**
-- **Sahishnu G**
-- **Hitesh Doku**
+## Authors
+- [@NinadGawali](https://github.com/NinadGawali)
+- [@SahishnuG]
+- [@HiteshDokku]
 
 ---
 
