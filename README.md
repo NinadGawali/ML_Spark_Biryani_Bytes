@@ -78,4 +78,5 @@ Our models aim to provide financial institutions with tools to:
 - Increase engagement rates
 - Reduce campaign costs
 - Understand key drivers behind customer decisions
+- Understanging underlying Business Patterns
 
